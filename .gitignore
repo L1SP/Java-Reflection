@@ -1,0 +1,18 @@
+# Java Class Files #
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+# Eclipse #
+/.classpath
+/.project
+/.settings
+bin/**
+# Maven #
+target/
+/.mvn
+/.maven
+/.repository
+.flattened-pom.xml
